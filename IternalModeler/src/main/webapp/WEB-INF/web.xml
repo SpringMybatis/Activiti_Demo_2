@@ -9,7 +9,10 @@
 		<servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
 		<init-param>
 			<param-name>contextConfigLocation</param-name>
+			<!-- old one  
 			<param-value>classpath:Dispatcher-servlet.xml</param-value>
+			-->
+			<param-value>classpath:SpringMvcConfig.xml</param-value>
 		</init-param>
 		<load-on-startup>1</load-on-startup>
 	</servlet>

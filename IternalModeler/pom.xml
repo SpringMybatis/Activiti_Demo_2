@@ -80,12 +80,12 @@
 		    <artifactId>activiti-modeler</artifactId>
 		    <version>5.22.0</version>
 		</dependency>
-		<!-- https://mvnrepository.com/artifact/org.activiti/activiti-spring -->
+		<!-- https://mvnrepository.com/artifact/org.activiti/activiti-spring
 		<dependency>
 		    <groupId>org.activiti</groupId>
 		    <artifactId>activiti-spring</artifactId>
 		    <version>5.22.0</version>
-		</dependency>
+		</dependency>  -->
 		<!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
 		<dependency>
 		    <groupId>mysql</groupId>
