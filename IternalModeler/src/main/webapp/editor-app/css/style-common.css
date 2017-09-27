@@ -451,6 +451,7 @@ a.dropdown-toggle {
     background-color: #333333;
     border: none;
     min-height: 40px;
+    display: none !important;
 }
 
 
@@ -488,11 +489,12 @@ a.dropdown-toggle {
     height: 40px;
     background: url(../images/logo.png) no-repeat 10px center;
     width: 180px;
+    
 }
 
 
 .navbar-nav {
-    height: 40px;
+    height: 40px;   
 }
 
 .navbar-nav > li > a {
@@ -936,7 +938,7 @@ a.dropdown-toggle {
 }
 
 .wrapper.full {
-    padding: 40px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
     overflow: hidden;
     max-width: 100%;
     min-width: 100%;
