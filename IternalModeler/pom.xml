@@ -71,7 +71,7 @@
 		<dependency>
 			<groupId>org.activiti</groupId>
 			<artifactId>activiti-engine</artifactId>
-			<version>5.16.4</version>
+			<version>5.22.0</version>
 		</dependency>
 		
 		<!-- https://mvnrepository.com/artifact/org.activiti/activiti-modeler -->
@@ -80,7 +80,19 @@
 		    <artifactId>activiti-modeler</artifactId>
 		    <version>5.22.0</version>
 		</dependency>
-		<!-- https://mvnrepository.com/artifact/org.activiti/activiti-spring
+		<!-- https://mvnrepository.com/artifact/org.activiti/activiti-rest -->
+		<dependency>
+		    <groupId>org.activiti</groupId>
+		    <artifactId>activiti-rest</artifactId>
+		    <version>5.22.0</version>
+		</dependency>
+		
+		<dependency>
+		    <groupId>org.activiti</groupId>
+		    <artifactId>activiti-diagram-rest</artifactId>
+		    <version>5.22.0</version>
+		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.activiti/activiti-spring -->
 		<dependency>
 		    <groupId>org.activiti</groupId>
 		    <artifactId>activiti-spring</artifactId>
